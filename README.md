@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MSumanKumar, Servicenow CSA Certified professional
 - 👀 I’m interested in Learning & Sharing articles
-- Overall 19+ Years of professional IT Experience in Application Development, Support models and worked with multiple clients across the globe as part of Products, Digital, Telecom, COE domains.
+- Over 10 Years of experience on Servicenow ITSM, ITBM, CSM, SOAP, Restful Web services, Amazon(Alexa Skill), Azure, Google, IBM Bluemix, Java & J2ee, Mule ESB, Spring MVC, Struts, OADF, SAP ISA, iBatis, Hibernate,  Tomcat,  JBoss, SAP-J2EE, WebLogic Application Server, HTML, JavaScript, Ajax, Node.js, PHP, Maven, Ant, Git, SVN, CVS, MySQL, SQL Server, Oracle,  IReport, Jasper, Agile-Scrum Model. 
 
  
 <!---
